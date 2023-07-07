@@ -2196,7 +2196,7 @@ Window_Base.prototype.standardFontFace = function () {
 };
 
 Window_Base.prototype.standardFontSize = function () {
-  return Yanfly.Param.FontSize;
+  return 22;
 };
 
 Window_Base.prototype.standardPadding = function () {

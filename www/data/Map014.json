@@ -628,7 +628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Before starting the game, we will make some initial settings."
+                                "Before starting the game, we will make some\ninitial settings."
                             ]
                         },
                         {
@@ -645,7 +645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "First, there are two difficulty levels in this game. Please read the\nexplanation and choose one."
+                                "First, there are two difficulty levels in\nthis game. Please read the explanation and\nchoose one."
                             ]
                         },
                         {
@@ -685,7 +685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...However, within the scope of the trial version, it doesn't make much\nsense, so we'll skip it."
+                                "...However, within the scope of the trial\nversion, it doesn't make much sense, so we'll\nskip it."
                             ]
                         },
                         {
@@ -754,7 +754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "'Steady' is the normal difficulty level."
+                                "'Balanced' is the normal difficulty level."
                             ]
                         },
                         {
@@ -771,7 +771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "All events will occur, so both the dignity and humiliation routes can\nbe progressed."
+                                "All events will occur, so both the dignity\nand humiliation routes can be progressed."
                             ]
                         },
                         {
@@ -809,7 +809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "'Sokunuki' is a difficulty level intended for those who aim to only\ncollect H-scenes."
+                                "'Minimal' is a difficulty level intended for\nthose who aim to only collect H-scenes."
                             ]
                         },
                         {
@@ -826,7 +826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Each initial value is slightly favored. However, the dignity route\ncannot be progressed."
+                                "Each initial value is slightly favored.\nHowever, the dignity route cannot be\nprogressed."
                             ]
                         },
                         {
@@ -840,21 +840,21 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "ask:難易度を決定して下さい。"
+                                "ask:Please decide the difficulty level"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ans:シッカリ"
+                                "ans:Balanced"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ans:ソクヌキ"
+                                "ans:Minimal"
                             ]
                         },
                         {
@@ -1024,7 +1024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For those playing for the first time, a simple tutorial is prepared."
+                                "For those playing for the first time, a\nsimple tutorial is prepared."
                             ]
                         },
                         {
@@ -1041,28 +1041,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At key points in the early stages, please choose whether or not to\nreceive a simple explanation from a dedicated character."
+                                "At key points in the early stages, please\nchoose whether or not to receive a simple\nexplanation from a dedicated character."
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "ask:専用キャラクターによるチュートリアルを…、"
+                                "ask:A tutorial by a dedicated character"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ans:受講する。"
+                                "ans:Attend a lecture"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ans:省略する。"
+                                "ans:Omit it"
                             ]
                         },
                         {
@@ -1193,7 +1193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You have already cleared this. Would you like to skip the opening?"
+                                "You have already cleared this. Would you like\nto skip the opening?"
                             ]
                         },
                         {
@@ -1207,21 +1207,21 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "ask:オープニングを省略しますか？"
+                                "ask:Would you like to skip the opening?"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 1,
                             "parameters": [
-                                "ans:省略しない。"
+                                "ans:Don't omit"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 1,
                             "parameters": [
-                                "ans:省略する。"
+                                "ans:Omit it"
                             ]
                         },
                         {
@@ -1562,7 +1562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - The trial version ends here. Sorry for it being\nshort."
+                                "＊Mysterious Sister - The trial version ends\nhere. Sorry for it being short."
                             ]
                         },
                         {
@@ -1579,7 +1579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - Once you leave the North District, it becomes\nincredibly difficult to draw a line..."
+                                "＊Mysterious Sister - Once you leave the North\nDistrict, it becomes incredibly difficult to\ndraw a line..."
                             ]
                         },
                         {
@@ -1596,7 +1596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - That being said, we have prepared a lot of events\nfor the full version. Please look forward to it!"
+                                "＊Mysterious Sister - That being said, we have\nprepared a lot of events for the full\nversion. Please look forward to it!"
                             ]
                         },
                         {
@@ -1613,7 +1613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - ...But, it would indeed be lonely with just this,\nso we'll give you a sneak peek of one H-scene."
+                                "＊Mysterious Sister - ...But, it would indeed\nbe lonely with just this, so we'll give you a\nsneak peek of one H-scene."
                             ]
                         },
                         {
@@ -1630,7 +1630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - We've registered it in album mode, so feel free to\ntake a look if you're interested!"
+                                "＊Mysterious Sister - We've registered it in\nalbum mode, so feel free to take a look if\nyou're interested!"
                             ]
                         },
                         {
@@ -1647,7 +1647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - However, it contains major spoilers, so if you\nwant to purely enjoy the full version, please quietly close the game."
+                                "＊Mysterious Sister - However, it contains\nmajor spoilers, so if you want to purely\nenjoy the full version, please quietly close\nthe game."
                             ]
                         },
                         {
@@ -1664,7 +1664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - Ah... one last thing. Please note that save data\nfrom the trial version cannot be transferred to the full version."
+                                "＊Mysterious Sister - Ah... one last thing.\nPlease note that save data from the trial\nversion cannot be transferred to the full\nversion."
                             ]
                         },
                         {
@@ -1681,7 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＊Mysterious Sister - Then, let's meet in the full version!"
+                                "＊Mysterious Sister - Then, let's meet in the\nfull version!"
                             ]
                         },
                         {
@@ -2062,21 +2062,21 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "ask:質問文一行目"
+                                "ask:First line of the question"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ans:r[1]屈辱ルート"
+                                "ans:r[1]Humiliation Route"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ans:r[2]尊厳ルート"
+                                "ans:r[2]Dignity Route"
                             ]
                         },
                         {
@@ -2167,7 +2167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "＊Kati: There's nothing else to do but to ask around in this area...."
+                                "＊Kati: There's nothing else to do but to ask\naround in this area...."
                             ]
                         },
                         {
