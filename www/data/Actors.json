@@ -1,4 +1,26 @@
 [
-null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"GF30_Katty01","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Katty01","traits":[],"initialLevel":1,"maxLevel":99,"name":"カティ","nickname":"","note":"","profile":""}
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "GF30_Katty01",
+        "classId": 1,
+        "equips": [
+            1,
+            1,
+            2,
+            3,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "Katty01",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "カティ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
 ]
